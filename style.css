@@ -46,7 +46,7 @@ h1 {
 #add-task-btn {
     padding: 10px 20px;
     margin-left: 10px;
-    background-color: #00ff55;
+    background-color: #4bf57b;
     border: none;
     color: #fff;
     border-radius: 5px;
@@ -56,7 +56,7 @@ h1 {
 }
 
 #add-task-btn:hover {
-    background-color: #4bf57b;
+    background-color: forestgreen;
 }
 
 #task-list {
